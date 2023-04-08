@@ -2,15 +2,15 @@
 
 一个c++和OpenGL实现的迷宫游戏，prim算法生成随机迷宫，可自定义维数。
 
-<img src="D:\Alan\迷宫游戏带UI\README\image-20230408212609195.png" alt="image-20230408212609195" style="zoom:50%;" />
+<img src="README\image-20230408212609195.png" alt="image-20230408212609195" style="zoom:50%;" />
 
 WASD控制人物行走，入口总在左下角，出口总在右上角。
 
-<img src="D:\Alan\迷宫游戏带UI\README\image-20230408212746226.png" alt="image-20230408212746226" style="zoom:50%;" />
+<img src="README\image-20230408212746226.png" alt="image-20230408212746226" style="zoom:50%;" />
 
 ESC跳出菜单
 
-<img src="D:\Alan\迷宫游戏带UI\README\image-20230408212838736.png" alt="image-20230408212838736" style="zoom:50%;" />
+<img src="README\image-20230408212838736.png" alt="image-20230408212838736" style="zoom:50%;" />
 
 数构实践作业，迷宫生成部分和用到的列表用c实现，其它为c++(老师要求他的实验必须用c写） 
 
