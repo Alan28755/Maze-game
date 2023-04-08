@@ -1,0 +1,51 @@
+﻿  App_Maze.cpp
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\App_Maze.cpp(137,56): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“GLuint *”
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\App_Maze.cpp(142,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  CollisionCheck.cpp
+  game.cpp
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\game.cpp(200,25): warning C4244: “=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\game.cpp(201,25): warning C4244: “=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\game.cpp(245,61): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“GLuint *”
+  game_object.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  level.cpp
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\level.cpp(99,42): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\level.cpp(100,44): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  maze_builder.cpp
+  player.cpp
+  resource_manager.cpp
+  shader.cpp
+  sprite_renderer.cpp
+  stb_image.cpp
+  texture.cpp
+  ui.cpp
+  glad.c
+  list.c
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\list.c(33,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\list.c(70,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\list.c(94,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\list.c(109,20): warning C4018: “<”: 有符号/无符号不匹配
+  queue.c
+  stack.c
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\stack.c(22,16): warning C4133: “=”: 从“sElem *”到“qElem *”的类型不兼容
+D:\Alan\迷宫游戏带UI\迷宫游戏带UI\src\stack.c(35,12): warning C4133: “=”: 从“qElem *”到“sElem *”的类型不兼容
+    正在创建库 D:\Alan\迷宫游戏带UI\x64Release\迷宫游戏带UI.lib 和对象 D:\Alan\迷宫游戏带UI\x64Release\迷宫游戏带UI.exp
+LINK : warning LNK4232: 名称 迷宫游戏带UI.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 2692 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  迷宫游戏带UI.vcxproj -> D:\Alan\迷宫游戏带UI\x64Release\迷宫游戏带UI.exe
